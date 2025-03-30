@@ -27,5 +27,3 @@ cscript ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP
 cscript ospp.vbs /sethst:e8.us.to
 cscript ospp.vbs /act
  Pode ocorrer alguma variação, mas no geral, seguindo esses passos, seu Office 2019 é ativado sem precisar instalar nenhum programa de Crack.
-
-Caso não conseguir rodar este procedimento, pode entrar em contato conosco, que ajudamos você no processo de instalação e ativação.
